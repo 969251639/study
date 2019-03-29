@@ -5,7 +5,7 @@
 以下的所有学习资料均来自网友的总结
 
 JVM：
-  1. JVM内存区域
+  1. JVM内存区域    https://github.com/969251639/study/wiki/JVM%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F
   2. JVM运行时内存
   3. 垃圾回收与算法
   4. GC垃圾收集器
