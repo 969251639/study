@@ -5,12 +5,18 @@
 以下的所有学习资料均来自网友的总结
 
 JVM：
-  1. JVM内存区域    https://github.com/969251639/study/wiki/JVM%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F
-  2. JVM运行时内存   https://github.com/969251639/study/wiki/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E5%86%85%E5%AD%98
-  3. 垃圾回收与算法    https://github.com/969251639/study/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E4%B8%8E%E7%AE%97%E6%B3%95
-  4. GC垃圾收集器    https://github.com/969251639/study/wiki/GC%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8
-  5. JVM类加载机制   https://github.com/969251639/study/wiki/JVM-%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6
-  6. 类加载器   https://github.com/969251639/study/wiki/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8
+  1. JVM内存区域    
+  https://github.com/969251639/study/wiki/JVM%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F
+  2. JVM运行时内存   
+  https://github.com/969251639/study/wiki/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E5%86%85%E5%AD%98
+  3. 垃圾回收与算法    
+  https://github.com/969251639/study/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E4%B8%8E%E7%AE%97%E6%B3%95
+  4. GC垃圾收集器    
+  https://github.com/969251639/study/wiki/GC%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8
+  5. JVM类加载机制   
+  https://github.com/969251639/study/wiki/JVM-%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6
+  6. 类加载器   
+  https://github.com/969251639/study/wiki/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8
   
 JAVA并发包：
   1. 前言
