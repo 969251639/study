@@ -72,18 +72,22 @@ mysql：
   https://github.com/969251639/study/wiki/show-profile  
   5. Mysql threads connect  
   https://github.com/969251639/study/wiki/Mysql-threads-connect
-  6. Pt-table-sync同步主从不一致  
-  7. binlog主从同步使用  
-  8. Mysql常见索引  
-  9. pt-query-digest分析慢查询  
-  10. MySql慢日志  
+  6. binlog主从同步使用  
+  https://github.com/969251639/study/wiki/Pt-table-sync%E5%90%8C%E6%AD%A5%E4%B8%BB%E4%BB%8E%E4%B8%8D%E4%B8%80%E8%87%B4
+  7. Mysql常见索引  
+  https://github.com/969251639/study/wiki/Mysql%E5%B8%B8%E8%A7%81%E7%B4%A2%E5%BC%95
+  8. MySql慢日志  
+  https://github.com/969251639/study/wiki/MySql%E6%85%A2%E6%97%A5%E5%BF%97
   
 netty:
   1. netty原理  
+  https://github.com/969251639/study/wiki/netty%E5%8E%9F%E7%90%86
   2. netty RPC实现  
-
+  https://github.com/969251639/study/wiki/netty-RPC%E5%AE%9E%E7%8E%B0
+  
 rabbitmq:
   1. rabbitmq架构  
+  https://github.com/969251639/study/wiki/rabbitmq%E6%9E%B6%E6%9E%84
   
 redis:  
   1. 字符串  
@@ -105,47 +109,76 @@ redis:
   16. 注意事项  
 
 spring:  
-  1. 前言  
+  1. 前言 
+  https://github.com/969251639/study/wiki/%E5%89%8D%E8%A8%80
   2. IOC  
+  https://github.com/969251639/study/wiki/IOC
   3. AOP  
+  https://github.com/969251639/study/wiki/AOP
   4. Spring Bean  
+  https://github.com/969251639/study/wiki/Spring-Bean
   5. Spring MVC  
+  https://github.com/969251639/study/wiki/spring-mvc
   
 zookeeper：
   1. 前言  
+  https://github.com/969251639/study/wiki/zookepper%E5%89%8D%E8%A8%80
   2. ZAB  
+  https://github.com/969251639/study/wiki/zab
   
 分布式缓存：
   1. 缓存雪崩  
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9
   2. 缓存穿透  
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F
   3. 缓存预热  
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%A2%84%E7%83%AD
   4. 缓存更新  
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E6%9B%B4%E6%96%B0
   5. 缓存降级  
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%99%8D%E7%BA%A7
   
 日志：
-  1. java日志组件  
+  1. java日志组件 
+  https://github.com/969251639/study/wiki/java%E6%97%A5%E5%BF%97%E7%BB%84%E4%BB%B6
   
 数据结构：
   1. 栈  
+  https://github.com/969251639/study/wiki/%E6%A0%88
   2. 队列  
+  https://github.com/969251639/study/wiki/%E9%98%9F%E5%88%97
   3. 链表  
+  https://github.com/969251639/study/wiki/%E9%93%BE%E8%A1%A8
   4. 散列表  
+  https://github.com/969251639/study/wiki/%E6%95%A3%E5%88%97%E8%A1%A8
   5. 排序二叉树  
+  https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F%E4%BA%8C%E5%8F%89%E6%A0%91
   6. 红黑树  
+  https://github.com/969251639/study/wiki/%E7%BA%A2%E9%BB%91%E6%A0%91
   7. B树  
+  https://github.com/969251639/study/wiki/B-%E6%A0%91
   
 网络：
   1. 7层架构  
+  https://github.com/969251639/study/wiki/%E7%BD%91%E7%BB%9C7%E5%B1%82%E6%9E%B6%E6%9E%84
   2. TCP/IP  
+  https://github.com/969251639/study/wiki/TCP-IP
   3. HTTP  
+  https://github.com/969251639/study/wiki/HTTP
   4. CDN  
+  https://github.com/969251639/study/wiki/CND
   
 一致性算法：
   1. Paxos  
+  https://github.com/969251639/study/wiki/Paxos
   2. Zab  
+  https://github.com/969251639/study/wiki/ZAB(ZooKeeper-Atomic-Broadcast)
   3. Raft  
+  https://github.com/969251639/study/wiki/Raft
   4. Gossip  
+  https://github.com/969251639/study/wiki/Gossip
   5. 一致性哈希  
+  https://github.com/969251639/study/wiki/%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C
   
 线上问题排查技巧：
 
