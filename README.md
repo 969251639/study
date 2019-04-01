@@ -186,11 +186,16 @@ zookeeper：
 以下的源码浅析均来自个人的研究，中间肯定有很多待需纠正之处，仅供个人学习使用
 
 java基础类：
-  1. Object
-  2. String
-  3. ArrayList
-  4. HashMap
-  5. HashSet
+  1. Object  
+  https://github.com/969251639/study/wiki/Object%E6%B5%85%E6%9E%90  
+  2. String  
+  https://github.com/969251639/study/wiki/String%E6%B5%85%E6%9E%90  
+  3. ArrayList  
+  
+  4. HashMap  
+  
+  5. HashSet  
+  
 
 线程：
   1. ThreadPoolExecutor
