@@ -89,24 +89,27 @@ rabbitmq:
   1. rabbitmq架构  
   https://github.com/969251639/study/wiki/rabbitmq%E6%9E%B6%E6%9E%84
   
-redis:  
+redis(来自redis设计与实现):  
   1. 字符串  
+  https://github.com/969251639/study/wiki/redis%E5%AD%97%E7%AC%A6%E4%B8%B2
   2. 链表  
+  https://github.com/969251639/study/wiki/redis%E9%93%BE%E8%A1%A8
   3. 字典    
-  4. 跳跃表  
-  5. 整数  
-  6. 压缩列表  
-  7. 对象  
-  8. 数据库  
-  9. RDB    
-  10. AOF  
-  11. 事件  
-  12. 客户端      
-  13. 服务端    
-  14. 主从复制  
-  15. 哨兵  
-  16. 集群  
-  16. 注意事项  
+  https://github.com/969251639/study/wiki/redis%E5%AD%97%E5%85%B8
+  4. 对象  
+  https://github.com/969251639/study/wiki/redis%E5%AF%B9%E8%B1%A1
+  5. 数据库  
+  https://github.com/969251639/study/wiki/redis%E5%BA%93
+  6. RDB    
+  
+  7. AOF  
+  8. 事件  
+  9. 客户端      
+  10. 服务端    
+  11. 主从复制  
+  12. 哨兵  
+  13. 集群  
+  14. 注意事项  
 
 spring:  
   1. 前言 
@@ -181,9 +184,10 @@ zookeeper：
   https://github.com/969251639/study/wiki/%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C
   
 线上问题排查技巧：
-
+  https://github.com/969251639/study/wiki/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%8A%80%E5%B7%A7
+   
 ================================================================================
-以下的源码浅析均来自个人的研究，中间肯定有很多待需纠正之处，仅供个人学习使用
+以下的源码浅析均来自个人的研究（基于jdk1.8），中间肯定有很多待需纠正之处，仅供个人学习使用
 
 java基础类：
   1. Object  
@@ -191,21 +195,22 @@ java基础类：
   2. String  
   https://github.com/969251639/study/wiki/String%E6%B5%85%E6%9E%90  
   3. ArrayList  
-  
+  https://github.com/969251639/study/wiki/ArrayList%E6%B5%85%E6%9E%90
   4. HashMap  
-  
+  https://github.com/969251639/study/wiki/HashMap%E6%B5%85%E6%9E%90
   5. HashSet  
-  
+  https://github.com/969251639/study/wiki/HashSet%E6%B5%85%E6%9E%90
 
-线程：
+线程：    
   1. ThreadPoolExecutor
+  
   2. ThreadLocal
   3. Actomic
 
-并发包：
+并发包：   
   1. AbstractQueueSysnchorized
 
-Tomcat：
+Tomcat：  
   
 Mybatis：
 
@@ -237,5 +242,5 @@ kafka
   12. 统计设计
   13. 自动化测试
   14. 消息可靠传输
-  15. 事件轮
+  15. 时间轮
   
