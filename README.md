@@ -190,7 +190,7 @@ zookeeper：
   https://github.com/969251639/study/wiki/%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C
   
 线上问题排查技巧：
-  https://github.com/969251639/study/wiki/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%8A%80%E5%B7%A7
+  https://github.com/969251639/study/wiki/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%8A%80%E5%B7%A7   
 常用linux命令：  
   https://github.com/969251639/study/wiki/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4  
    
