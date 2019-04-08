@@ -101,61 +101,67 @@ redis(来自redis设计与实现):
   5. 数据库  
   https://github.com/969251639/study/wiki/redis%E5%BA%93
   6. RDB    
-  
+  https://github.com/969251639/study/wiki/RDB  
   7. AOF  
+  https://github.com/969251639/study/wiki/AOF
   8. 事件  
-  9. 客户端      
-  10. 服务端    
-  11. 主从复制  
-  12. 哨兵  
-  13. 集群  
-  14. 注意事项  
+  https://github.com/969251639/study/wiki/redis%E4%BA%8B%E4%BB%B6     
+  9. 主从复制  
+  https://github.com/969251639/study/wiki/redis%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5  
+  10. 哨兵  
+  https://github.com/969251639/study/wiki/redis%E5%93%A8%E5%85%B5   
+  11. 集群  
+  https://github.com/969251639/study/wiki/redis%E9%9B%86%E7%BE%A4
+  12. 阿里规范
+  https://github.com/969251639/study/wiki/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9A%84redis%E8%A7%84%E8%8C%83  
+  13. bigkey  
+  https://github.com/969251639/study/wiki/redis-bigkey
 
 spring:  
   1. 前言 
-  https://github.com/969251639/study/wiki/%E5%89%8D%E8%A8%80
+  https://github.com/969251639/study/wiki/%E5%89%8D%E8%A8%80    
   2. IOC  
-  https://github.com/969251639/study/wiki/IOC
+  https://github.com/969251639/study/wiki/IOC  
   3. AOP  
-  https://github.com/969251639/study/wiki/AOP
+  https://github.com/969251639/study/wiki/AOP   
   4. Spring Bean  
-  https://github.com/969251639/study/wiki/Spring-Bean
+  https://github.com/969251639/study/wiki/Spring-Bean   
   5. Spring MVC  
-  https://github.com/969251639/study/wiki/spring-mvc
+  https://github.com/969251639/study/wiki/spring-mvc    
   
 zookeeper：
   1. 前言  
-  https://github.com/969251639/study/wiki/zookepper%E5%89%8D%E8%A8%80
+  https://github.com/969251639/study/wiki/zookepper%E5%89%8D%E8%A8%80   
   2. ZAB  
-  https://github.com/969251639/study/wiki/zab
+  https://github.com/969251639/study/wiki/zab   
   
 分布式缓存：
   1. 缓存雪崩  
-  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%9B%AA%E5%B4%A9   
   2. 缓存穿透  
-  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F   
   3. 缓存预热  
-  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%A2%84%E7%83%AD
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%A2%84%E7%83%AD  
   4. 缓存更新  
-  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E6%9B%B4%E6%96%B0
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E6%9B%B4%E6%96%B0   
   5. 缓存降级  
-  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%99%8D%E7%BA%A7
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%99%8D%E7%BA%A7    
   
 日志：
   1. java日志组件 
-  https://github.com/969251639/study/wiki/java%E6%97%A5%E5%BF%97%E7%BB%84%E4%BB%B6
+  https://github.com/969251639/study/wiki/java%E6%97%A5%E5%BF%97%E7%BB%84%E4%BB%B6    
   
 数据结构：
   1. 栈  
-  https://github.com/969251639/study/wiki/%E6%A0%88
+  https://github.com/969251639/study/wiki/%E6%A0%88   
   2. 队列  
-  https://github.com/969251639/study/wiki/%E9%98%9F%E5%88%97
+  https://github.com/969251639/study/wiki/%E9%98%9F%E5%88%97   
   3. 链表  
-  https://github.com/969251639/study/wiki/%E9%93%BE%E8%A1%A8
+  https://github.com/969251639/study/wiki/%E9%93%BE%E8%A1%A8   
   4. 散列表  
-  https://github.com/969251639/study/wiki/%E6%95%A3%E5%88%97%E8%A1%A8
+  https://github.com/969251639/study/wiki/%E6%95%A3%E5%88%97%E8%A1%A8   
   5. 排序二叉树  
-  https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F%E4%BA%8C%E5%8F%89%E6%A0%91
+  https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F%E4%BA%8C%E5%8F%89%E6%A0%91   
   6. 红黑树  
   https://github.com/969251639/study/wiki/%E7%BA%A2%E9%BB%91%E6%A0%91
   7. B树  
@@ -204,18 +210,29 @@ java基础类：
   https://github.com/969251639/study/wiki/HashSet%E6%B5%85%E6%9E%90
 
 线程：    
-  1. ThreadPoolExecutor
+  1. ThreadPoolExecutor  
   
-  2. ThreadLocal
-  3. Actomic
+  2. ThreadLocal  
+  
+  3. Actomic  
 
 并发包：   
-  1. AbstractQueueSysnchorized
+  1. AbstractQueueSysnchorized  
 
-Tomcat：  
+Tomcat8：  
+  1. 整体架构   
+  2. Server组件  
+  3. Service组件  
+  4. Connector组件  
+  5. Engine组件   
+  6. Host组件   
+  7. Context组件     
+  8. Wrapper组件    
+  9. 类加载器   
   
 Mybatis：
-
+  1. 连接池  
+  
 Spring：
 
 Spring MVC：
