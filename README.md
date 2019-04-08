@@ -1,5 +1,5 @@
 # study
-学习资料总结
+学习资料总结（持续更新，直至退役）
 
 ================================================================================
 以下的所有学习资料均来自网友的总结
@@ -118,7 +118,7 @@ redis(来自redis设计与实现):
   https://github.com/969251639/study/wiki/redis-bigkey
 
 spring:  
-  1. 前言 
+  1. 前言  
   https://github.com/969251639/study/wiki/%E5%89%8D%E8%A8%80    
   2. IOC  
   https://github.com/969251639/study/wiki/IOC  
@@ -192,7 +192,7 @@ zookeeper：
 线上问题排查技巧：
   https://github.com/969251639/study/wiki/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%8A%80%E5%B7%A7
 常用linux命令：  
-  https://github.com/969251639/study/wiki/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%E6%8A%80%E5%B7%A7  
+  https://github.com/969251639/study/wiki/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4  
    
 ================================================================================
 以下的源码浅析均来自个人的研究（基于jdk1.8），中间肯定有很多待需纠正之处，仅供个人学习使用
@@ -221,14 +221,20 @@ java基础类：
 
 Tomcat8：  
   1. 整体架构   
-  2. Server组件  
-  3. Service组件  
-  4. Connector组件  
-  5. Engine组件   
-  6. Host组件   
-  7. Context组件     
-  8. Wrapper组件    
-  9. 类加载器   
+  https://github.com/969251639/study/wiki/tomcat%E6%9E%B6%E6%9E%84%E5%9B%BE
+  2. 生命周期  
+  https://github.com/969251639/study/wiki/tomcat%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F  
+  3. 启动  
+  https://github.com/969251639/study/wiki/tomcat%E5%90%AF%E5%8A%A8%E6%B5%85%E6%9E%90  
+  4. Server组件  
+  
+  5. Service组件  
+  6. Connector组件  
+  7. Engine组件   
+  8. Host组件   
+  9. Context组件     
+  10. Wrapper组件    
+  11. 类加载器   
   
 Mybatis：
   1. 连接池  
