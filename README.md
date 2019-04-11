@@ -211,13 +211,28 @@ java基础类：
 
 线程：    
   1. ThreadPoolExecutor  
-  
-  2. ThreadLocal   
-  https://github.com/969251639/study/wiki/jdk-ThreadLocal 
+  https://github.com/969251639/study/wiki/ThreadPoolExecutor   
+  2. Executors
+  https://github.com/969251639/study/wiki/Executors   
+  3. ThreadLocal   
+  https://github.com/969251639/study/wiki/jdk-ThreadLocal   
 
 并发包：   
   1. AbstractQueueSysnchorized  
-
+  2. ReentrantLock 
+  3. ReadWriteLock 
+  4. ReentrantReadWriteLock  
+  5. StampedLock  
+  6. ArrayBlockingQueue  
+  7. ConcurrentHashMap  
+  8. ConcurrentLinkedQueue  
+  9. CopyOnWriteArrayList  
+  10. CountDownLatch  
+  11. CyclicBarrier  
+  11. Exchanger  
+  12. FutureTask  
+  13. Semaphore  
+  14. SynchronousQueue   
 Tomcat8：  
   1. 整体架构   
   https://github.com/969251639/study/wiki/tomcat%E6%9E%B6%E6%9E%84%E5%9B%BE
@@ -269,20 +284,23 @@ Mybatis：
   
 Spring：   
 
-Spring MVC：  
+Spring MVC：    
 
-Spring Boot   
+Spring Boot：  
 
-Eurka   
-   
+Eurka：      
+   1. Eureka客户端   
+   https://github.com/969251639/study/wiki/eureka%E5%AE%A2%E6%88%B7%E7%AB%AF
+   2. Eureka服务端端   
+   https://github.com/969251639/study/wiki/Eureka%E6%9C%8D%E5%8A%A1%E7%AB%AF
 Sharding-jdbc：  
    1. 封装读写分离数据源   
    https://github.com/969251639/study/wiki/%E5%B0%81%E8%A3%85%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%E6%95%B0%E6%8D%AE%E6%BA%90  
    2. 读写分离
    https://github.com/969251639/study/wiki/sharding-jdbc%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB   
    
-kafka   
-
+kafka：   
+   
 ================================================================================
 设计方案：
   1. 参数校验
