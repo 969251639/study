@@ -212,9 +212,8 @@ java基础类：
 线程：    
   1. ThreadPoolExecutor  
   
-  2. ThreadLocal  
-  
-  3. Actomic  
+  2. ThreadLocal   
+  https://github.com/969251639/study/wiki/jdk-ThreadLocal 
 
 并发包：   
   1. AbstractQueueSysnchorized  
@@ -227,29 +226,62 @@ Tomcat8：
   3. 启动  
   https://github.com/969251639/study/wiki/tomcat%E5%90%AF%E5%8A%A8%E6%B5%85%E6%9E%90  
   4. Server组件  
-  
+  https://github.com/969251639/study/wiki/Server%E7%BB%84%E4%BB%B6
   5. Service组件  
+  https://github.com/969251639/study/wiki/Service%E7%BB%84%E4%BB%B6   
   6. Connector组件  
-  7. Engine组件   
-  8. Host组件   
-  9. Context组件     
-  10. Wrapper组件    
-  11. 类加载器   
+  https://github.com/969251639/study/wiki/Connector%E7%BB%84%E4%BB%B6  
+  7. Acceptor组件  
+  https://github.com/969251639/study/wiki/tomcat-acceptor%E7%BB%84%E4%BB%B6%E6%B5%85%E6%9E%90  
+  8. LimitLatch组件   
+  https://github.com/969251639/study/wiki/LimitLatch%E7%BB%84%E4%BB%B6   
+  9. Poller组件  
+  https://github.com/969251639/study/wiki/Poller%E7%BB%84%E4%BB%B6   
+  10. 管道    
+  https://github.com/969251639/study/wiki/%E7%AE%A1%E9%81%93%E7%BB%84%E4%BB%B6     
+  11. Engine组件   
+  https://github.com/969251639/study/wiki/Engine%E7%BB%84%E4%BB%B6   
+  12. Host组件   
+  https://github.com/969251639/study/wiki/Host%E7%BB%84%E4%BB%B6   
+  13. Context组件     
+  https://github.com/969251639/study/wiki/Context%E7%BB%84%E4%BB%B6
+  14. Wrapper组件    
+  https://github.com/969251639/study/wiki/Wrapper%E7%BB%84%E4%BB%B6
+  15. 类加载器   
+  https://github.com/969251639/study/wiki/tomcat%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8
   
 Mybatis：
-  1. 连接池  
+  1. mybais启动    
+  https://github.com/969251639/study/wiki/mybais%E5%90%AF%E5%8A%A8   
+  2. mybatis连接池   
+  https://github.com/969251639/study/wiki/mybatis%E8%BF%9E%E6%8E%A5%E6%B1%A0   
+  3. mybatis操作数据库
+  https://github.com/969251639/study/wiki/mybatis%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93
+  4. mybatis执行器   
+  https://github.com/969251639/study/wiki/mybatis%E6%89%A7%E8%A1%8C%E5%99%A8   
+  5. mybatis执行sql过程   
+  https://github.com/969251639/study/wiki/mybatis%E6%89%A7%E8%A1%8Csql%E8%BF%87%E7%A8%8B
+  6. mybatis缓存  
+  https://github.com/969251639/study/wiki/mybatis%E7%BC%93%E5%AD%98
+  7. mybatis拦截器   
+  https://github.com/969251639/study/wiki/mybatis%E6%8B%A6%E6%88%AA%E5%99%A8   
+  8. mybatis和spring的整合  
   
-Spring：
+Spring：   
 
-Spring MVC：
+Spring MVC：  
 
-Spring Boot
+Spring Boot   
 
-Eurka
-
-Sharding-jdbc
-
-kafka
+Eurka   
+   
+Sharding-jdbc：  
+   1. 封装读写分离数据源   
+   https://github.com/969251639/study/wiki/%E5%B0%81%E8%A3%85%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%E6%95%B0%E6%8D%AE%E6%BA%90  
+   2. 读写分离
+   https://github.com/969251639/study/wiki/sharding-jdbc%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB   
+   
+kafka   
 
 ================================================================================
 设计方案：
