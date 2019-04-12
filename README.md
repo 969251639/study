@@ -212,7 +212,7 @@ java基础类：
 线程：    
   1. ThreadPoolExecutor  
   https://github.com/969251639/study/wiki/ThreadPoolExecutor   
-  2. Executors
+  2. Executors     
   https://github.com/969251639/study/wiki/Executors   
   3. ThreadLocal   
   https://github.com/969251639/study/wiki/jdk-ThreadLocal   
@@ -281,7 +281,6 @@ Mybatis：
   https://github.com/969251639/study/wiki/mybatis%E7%BC%93%E5%AD%98
   7. mybatis拦截器   
   https://github.com/969251639/study/wiki/mybatis%E6%8B%A6%E6%88%AA%E5%99%A8   
-  8. mybatis和spring的整合  
   
 Spring：   
 
@@ -296,9 +295,9 @@ Eurka：
    https://github.com/969251639/study/wiki/Eureka%E6%9C%8D%E5%8A%A1%E7%AB%AF   
    
 Sharding-jdbc：  
-   1. 封装读写分离数据源   
+   1. 封装读写分离数据源     
    https://github.com/969251639/study/wiki/%E5%B0%81%E8%A3%85%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB%E6%95%B0%E6%8D%AE%E6%BA%90  
-   2. 读写分离
+   2. 读写分离   
    https://github.com/969251639/study/wiki/sharding-jdbc%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB   
    
 kafka：   
