@@ -302,6 +302,14 @@ Sharding-jdbc：
    
 kafka：   
    
+LCN：
+   1. 前言
+   https://github.com/969251639/study/wiki/LCN%E5%89%8D%E8%A8%80
+   2. 事务发起方
+   https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%91%E8%B5%B7%E6%96%B9
+   3. 事务参与方
+   https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%82%E4%B8%8E%E6%96%B9
+   
 ================================================================================
 设计方案：
   1. 参数校验
