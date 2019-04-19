@@ -219,20 +219,23 @@ java基础类：
 
 并发包：   
   1. AbstractQueueSysnchorized  
+  https://github.com/969251639/study/wiki/AbstractQueueSysnchorized%E5%8E%9F%E7%90%86    
   2. ReentrantLock 
-  3. ReadWriteLock 
-  4. ReentrantReadWriteLock  
-  5. StampedLock  
-  6. ArrayBlockingQueue  
-  7. ConcurrentHashMap  
-  8. ConcurrentLinkedQueue  
-  9. CopyOnWriteArrayList  
-  10. CountDownLatch  
-  11. CyclicBarrier  
-  11. Exchanger  
-  12. FutureTask  
-  13. Semaphore  
-  14. SynchronousQueue   
+  https://github.com/969251639/study/wiki/ReentrantLock%E5%8E%9F%E7%90%86   
+  3. ReentrantReadWriteLock  
+  https://github.com/969251639/study/wiki/ReentrantReadWriteLock%E5%8E%9F%E7%90%86   
+  4. ArrayBlockingQueue  
+  https://github.com/969251639/study/wiki/ArrayBlockingQueue%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90
+  5. ConcurrentHashMap   
+  
+  6. CountDownLatch  
+  https://github.com/969251639/study/wiki/CountDownLatch%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90
+  7. CyclicBarrier  
+  https://github.com/969251639/study/wiki/CyclicBarrier%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90  
+  8. FutureTask  
+  https://github.com/969251639/study/wiki/FutureTask%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90
+  9. Semaphore  
+  https://github.com/969251639/study/wiki/Semaphore%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90   
   
 Tomcat8：  
   1. 整体架构   
@@ -300,7 +303,7 @@ Sharding-jdbc：
    2. 读写分离   
    https://github.com/969251639/study/wiki/sharding-jdbc%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB   
    
-kafka：   
+Kafka：   
    
 LCN：
    1. 前言
@@ -309,22 +312,47 @@ LCN：
    https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%91%E8%B5%B7%E6%96%B9
    3. 事务参与方
    https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%82%E4%B8%8E%E6%96%B9
-   
+  
 ================================================================================
-设计方案：
-  1. 参数校验
-  2. 分布式ID
-  3. 分布式任务
-  4. 分布式事务
-  5. 分布式锁
-  6. 缓存设计
-  7. 开发平台设计
-  8. 配置文件设计
-  9. 批量任务存储设计
-  10. 规则设计
-  11. 事件监听设计
-  12. 统计设计
-  13. 自动化测试
-  14. 消息可靠传输
-  15. 时间轮
+设计模式（真实项目中的实际场景）：
+  1. 单例模式  
+  https://github.com/969251639/study/wiki/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F   
+  2. 工厂模式   
+  https://github.com/969251639/study/wiki/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F   
+  3. 建造者模式   
+  https://github.com/969251639/study/wiki/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F   
+  4. 适配器模式   
+  https://github.com/969251639/study/wiki/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F   
+  5. 策略模式   
+  https://github.com/969251639/study/wiki/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F
+  6. 模板方法模式     
+  https://github.com/969251639/study/wiki/%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F  
+  7. 组合模式   
+  https://github.com/969251639/study/wiki/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F     
+  8. 观察者模式   
+  https://github.com/969251639/study/wiki/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F   
+  8. 责任链模式   
+  https://github.com/969251639/study/wiki/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F   
+  9. 门面模式   
+  https://github.com/969251639/study/wiki/%E9%97%A8%E9%9D%A2%E6%A8%A1%E5%BC%8F
+  
+================================================================================
+设计方案：  
+  1. 参数校验   
+  https://github.com/969251639/study/wiki/%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C  
+  2. 分布式ID  
+  https://github.com/969251639/study/wiki/%E5%88%86%E5%B8%83%E5%BC%8FID   
+  3. 分布式事务  
+  4. 分布式锁  
+  5. 任务服务   
+  6. 缓存设计  
+  7. 开放平台接口设计  
+  8. 配置文件设计  
+  9. 批量任务存储设计  
+  10. 规则设计  
+  11. 事件监听设计  
+  12. 统计设计  
+  13. 自动化测试  
+  14. 消息可靠传输  
+  15. 时间轮  
   
