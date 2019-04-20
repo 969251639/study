@@ -147,8 +147,8 @@ zookeeper：
   5. 缓存降级  
   https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E9%99%8D%E7%BA%A7    
   
-日志：
-  1. java日志组件 
+日志：     
+  1. java日志组件   
   https://github.com/969251639/study/wiki/java%E6%97%A5%E5%BF%97%E7%BB%84%E4%BB%B6    
   
 数据结构：
@@ -306,8 +306,8 @@ Sharding-jdbc：
 Kafka：   
    
 LCN：
-   1. 前言
-   https://github.com/969251639/study/wiki/LCN%E5%89%8D%E8%A8%80
+   1. 前言   
+   https://github.com/969251639/study/wiki/LCN%E5%89%8D%E8%A8%80   
    2. 事务发起方
    https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%91%E8%B5%B7%E6%96%B9
    3. 事务参与方
