@@ -6,25 +6,25 @@
 
 JVM：
   1. JVM内存区域    
-  https://github.com/969251639/study/wiki/JVM%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F
+  https://github.com/969251639/study/wiki/JVM%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F   
   2. JVM运行时内存   
-  https://github.com/969251639/study/wiki/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E5%86%85%E5%AD%98
+  https://github.com/969251639/study/wiki/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E5%86%85%E5%AD%98   
   3. 垃圾回收与算法    
-  https://github.com/969251639/study/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E4%B8%8E%E7%AE%97%E6%B3%95
+  https://github.com/969251639/study/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E4%B8%8E%E7%AE%97%E6%B3%95   
   4. GC垃圾收集器    
-  https://github.com/969251639/study/wiki/GC%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8
+  https://github.com/969251639/study/wiki/GC%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8   
   5. JVM类加载机制   
-  https://github.com/969251639/study/wiki/JVM-%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6
+  https://github.com/969251639/study/wiki/JVM-%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6   
   6. 类加载器   
-  https://github.com/969251639/study/wiki/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8
+  https://github.com/969251639/study/wiki/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8  
   
-JAVA并发包：
-  1. 并发包结构  
-  https://github.com/969251639/study/wiki/%E5%B9%B6%E5%8F%91%E5%8C%85%E7%BB%93%E6%9E%84
-  2. JAVA线程实现和创建  
-  https://github.com/969251639/study/wiki/JAVA%E7%BA%BF%E7%A8%8B%E5%AE%9E%E7%8E%B0%E5%92%8C%E5%88%9B%E5%BB%BA
+JAVA并发包：   
+  1. 并发包结构     
+  https://github.com/969251639/study/wiki/%E5%B9%B6%E5%8F%91%E5%8C%85%E7%BB%93%E6%9E%84   
+  2. JAVA线程实现和创建    
+  https://github.com/969251639/study/wiki/JAVA%E7%BA%BF%E7%A8%8B%E5%AE%9E%E7%8E%B0%E5%92%8C%E5%88%9B%E5%BB%BA   
   3. jdk 4种线程池  
-  https://github.com/969251639/study/wiki/jdk-4%E7%A7%8D%E7%BA%BF%E7%A8%8B%E6%B1%A0
+  https://github.com/969251639/study/wiki/jdk-4%E7%A7%8D%E7%BA%BF%E7%A8%8B%E6%B1%A0 
   4. 线程基本用法  
   https://github.com/969251639/study/wiki/%E7%BA%BF%E7%A8%8B%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95
   5. 线程池  
@@ -343,16 +343,28 @@ LCN：
   2. 分布式ID  
   https://github.com/969251639/study/wiki/%E5%88%86%E5%B8%83%E5%BC%8FID   
   3. 分布式事务  
-  4. 分布式锁  
+  
+  4. 分布式锁    
+  https://github.com/969251639/study/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81   
   5. 任务服务   
+  https://github.com/969251639/RedisLock/wiki/%E4%BB%BB%E5%8A%A1%E6%9C%8D%E5%8A%A1  
   6. 缓存设计  
+  
   7. 开放平台接口设计  
+  https://github.com/969251639/RedisLock/wiki/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1   
   8. 配置文件设计  
+  https://github.com/969251639/RedisLock/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AE%BE%E8%AE%A1   
   9. 批量任务存储设计  
-  10. 规则设计  
+  https://github.com/969251639/RedisLock/wiki/%E6%89%B9%E9%87%8F%E4%BB%BB%E5%8A%A1%E5%AD%98%E5%82%A8%E8%AE%BE%E8%AE%A1  
+  10. 商品规则设计  
+  https://github.com/969251639/RedisLock/wiki/%E5%95%86%E5%93%81%E8%A7%84%E5%88%99%E8%AE%BE%E8%AE%A1   
   11. 事件监听设计  
+  https://github.com/969251639/RedisLock/wiki/%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E8%AE%BE%E8%AE%A1   
   12. 统计设计  
-  13. 自动化测试  
+  https://github.com/969251639/RedisLock/wiki/%E7%BB%9F%E8%AE%A1%E8%AE%BE%E8%AE%A1   
+  13. 测试自动化设计     
+  https://github.com/969251639/RedisLock/wiki/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E8%AE%A1    
   14. 消息可靠传输  
-  15. 时间轮  
+  
+  15. 秒杀   
   
