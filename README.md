@@ -47,7 +47,7 @@ JAVA并发包：
   https://github.com/969251639/study/wiki/AQS
   
 JAVA集合类：  
-https://github.com/969251639/study/wiki/java%E9%9B%86%E5%90%88%E7%B1%BB
+  https://github.com/969251639/study/wiki/java%E9%9B%86%E5%90%88%E7%B1%BB
 
 kafka：
   1. kafka存储  
@@ -227,7 +227,7 @@ java基础类：
   4. ArrayBlockingQueue  
   https://github.com/969251639/study/wiki/ArrayBlockingQueue%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90
   5. ConcurrentHashMap   
-  
+  https://github.com/969251639/study/wiki/ConcurrentHashMap%E6%B5%85%E6%9E%90
   6. CountDownLatch  
   https://github.com/969251639/study/wiki/CountDownLatch%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90
   7. CyclicBarrier  
