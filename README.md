@@ -343,28 +343,28 @@ LCN：
   2. 分布式ID  
   https://github.com/969251639/study/wiki/%E5%88%86%E5%B8%83%E5%BC%8FID   
   3. 分布式事务  
-  
+  https://github.com/969251639/study/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1    
   4. 分布式锁    
   https://github.com/969251639/study/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81   
   5. 任务服务   
-  https://github.com/969251639/RedisLock/wiki/%E4%BB%BB%E5%8A%A1%E6%9C%8D%E5%8A%A1  
+  https://github.com/969251639/study/wiki/%E4%BB%BB%E5%8A%A1%E6%9C%8D%E5%8A%A1  
   6. 缓存设计  
-  
+  https://github.com/969251639/study/wiki/%E7%BC%93%E5%AD%98%E8%AE%BE%E8%AE%A1    
   7. 开放平台接口设计  
-  https://github.com/969251639/RedisLock/wiki/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1   
+  https://github.com/969251639/study/wiki/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1   
   8. 配置文件设计  
-  https://github.com/969251639/RedisLock/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AE%BE%E8%AE%A1   
+  https://github.com/969251639/study/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AE%BE%E8%AE%A1   
   9. 批量任务存储设计  
-  https://github.com/969251639/RedisLock/wiki/%E6%89%B9%E9%87%8F%E4%BB%BB%E5%8A%A1%E5%AD%98%E5%82%A8%E8%AE%BE%E8%AE%A1  
+  https://github.com/969251639/study/wiki/%E6%89%B9%E9%87%8F%E4%BB%BB%E5%8A%A1%E5%AD%98%E5%82%A8%E8%AE%BE%E8%AE%A1   
   10. 商品规则设计  
-  https://github.com/969251639/RedisLock/wiki/%E5%95%86%E5%93%81%E8%A7%84%E5%88%99%E8%AE%BE%E8%AE%A1   
+  https://github.com/969251639/study/wiki/%E5%95%86%E5%93%81%E8%A7%84%E5%88%99%E8%AE%BE%E8%AE%A1    
   11. 事件监听设计  
-  https://github.com/969251639/RedisLock/wiki/%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E8%AE%BE%E8%AE%A1   
+  https://github.com/969251639/study/wiki/%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E8%AE%BE%E8%AE%A1   
   12. 统计设计  
-  https://github.com/969251639/RedisLock/wiki/%E7%BB%9F%E8%AE%A1%E8%AE%BE%E8%AE%A1   
+  https://github.com/969251639/study/wiki/%E7%BB%9F%E8%AE%A1%E8%AE%BE%E8%AE%A1   
   13. 测试自动化设计     
-  https://github.com/969251639/RedisLock/wiki/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E8%AE%A1    
+  https://github.com/969251639/study/wiki/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E8%AE%A1    
   14. 消息可靠传输  
-  
+  https://github.com/969251639/study/wiki/%E6%B6%88%E6%81%AF%E5%8F%AF%E9%9D%A0%E4%BC%A0%E8%BE%93   
   15. 秒杀   
   
