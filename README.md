@@ -304,6 +304,14 @@ Sharding-jdbc：
    https://github.com/969251639/study/wiki/sharding-jdbc%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB   
    
 Kafka：   
+   1. 前言
+   2. 生产者——消息发送
+   3. 生产者——元数据
+   4. 生产者——集群
+   5. 生产者——消息累加器
+   6. 生产者——发送器
+   7. 生产者——网络
+   8. 生产者——回调确认
    
 LCN：
    1. 前言   
