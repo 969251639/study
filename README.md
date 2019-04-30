@@ -303,22 +303,31 @@ Sharding-jdbc：
    2. 读写分离   
    https://github.com/969251639/study/wiki/sharding-jdbc%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB   
    
-Kafka：   
-   1. 前言
-   2. 生产者——消息发送
-   3. 生产者——元数据
-   4. 生产者——集群
-   5. 生产者——消息累加器
-   6. 生产者——发送器
-   7. 生产者——网络
-   8. 生产者——回调确认
+Kafka：  
+   1. 生产者——消息发送     
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E6%B6%88%E6%81%AF%E5%8F%91%E9%80%81  
+   2. 生产者——元数据   
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E5%85%83%E6%95%B0%E6%8D%AE    
+   3. 生产者——集群   
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E9%9B%86%E7%BE%A4   
+   4. 生产者——分区器   
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E5%88%86%E5%8C%BA%E5%99%A8   
+   5. 生产者——拦截器   
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E6%8B%A6%E6%88%AA%E5%99%A8
+   6. 生产者——消息累加器   
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E6%B6%88%E6%81%AF%E7%B4%AF%E5%8A%A0%E5%99%A8  
+   7. 生产者——发送器  
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E5%8F%91%E9%80%81%E5%99%A8    
+   8. 生产者——网络  
+   https://github.com/969251639/study/wiki/%E7%94%9F%E4%BA%A7%E8%80%85%E2%80%94%E2%80%94%E7%BD%91%E7%BB%9C       
+   9. 生产者——回调确认
    
 LCN：
    1. 前言   
    https://github.com/969251639/study/wiki/LCN%E5%89%8D%E8%A8%80   
-   2. 事务发起方
+   2. 事务发起方   
    https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%91%E8%B5%B7%E6%96%B9
-   3. 事务参与方
+   3. 事务参与方    
    https://github.com/969251639/study/wiki/%E4%BA%8B%E5%8A%A1%E5%8F%82%E4%B8%8E%E6%96%B9
   
 ===============================================================================
