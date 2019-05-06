@@ -325,11 +325,11 @@ Kafka：
    10. 消费者——消息订阅与抓取
    
    11. 消费者——网络客户端
-   
+   https://github.com/969251639/study/wiki/%E6%B6%88%E8%B4%B9%E8%80%85%E2%80%94%E2%80%94%E7%BD%91%E7%BB%9C%E5%AE%A2%E6%88%B7%E7%AB%AF  
    12. 消费者——分区分配策略
-   
+   https://github.com/969251639/study/wiki/%E6%B6%88%E8%B4%B9%E8%80%85%E2%80%94%E2%80%94%E5%88%86%E5%8C%BA%E5%88%86%E9%85%8D%E7%AD%96%E7%95%A5  
    13. 消费者——订阅状态器
-   
+   https://github.com/969251639/study/wiki/%E6%B6%88%E8%B4%B9%E8%80%85%E2%80%94%E2%80%94%E8%AE%A2%E9%98%85%E7%8A%B6%E6%80%81%E5%99%A8  
    14. 消费者——心跳
    
    15. 消费者——消息抓取器
@@ -400,10 +400,13 @@ LCN：
   15. 秒杀   
 
 ===============================================================================
-常见算法：  
-  BloomFilter：   
-  基数算法：  
-  TopK：  
+常见算法实现：  
+  Google Guava BloomFilter：   
+  https://github.com/969251639/study/wiki/BloomFilter     
+  Google stream-lib 基数估算法计：  
+  
+  Google Guava TopK：  
+  
   大文件查找：  
   
   
