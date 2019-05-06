@@ -401,14 +401,15 @@ LCN：
 
 ===============================================================================
 常见算法实现：  
-  Google Guava BloomFilter：   
+  Guava And Stream-lib BloomFilter：   
   https://github.com/969251639/study/wiki/BloomFilter     
-  Google stream-lib 基数估算法计：  
-  
+  Stream-lib 基数估算去重：  
+  https://github.com/969251639/study/wiki/stream-lib    
   Google Guava TopK：  
   
   大文件查找：  
   
+  排序：
   
 ===============================================================================
 Mysql：  
