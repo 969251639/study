@@ -220,7 +220,7 @@ java基础类：
 并发包：   
   1. AbstractQueueSysnchorized  
   https://github.com/969251639/study/wiki/AbstractQueueSysnchorized%E5%8E%9F%E7%90%86    
-  2. ReentrantLock 
+  2. ReentrantLock        
   https://github.com/969251639/study/wiki/ReentrantLock%E5%8E%9F%E7%90%86   
   3. ReentrantReadWriteLock  
   https://github.com/969251639/study/wiki/ReentrantReadWriteLock%E5%8E%9F%E7%90%86   
