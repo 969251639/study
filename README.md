@@ -400,15 +400,18 @@ LCN：
   https://github.com/969251639/study/wiki/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E8%AE%A1    
   14. 消息可靠传输  
   https://github.com/969251639/study/wiki/%E6%B6%88%E6%81%AF%E5%8F%AF%E9%9D%A0%E4%BC%A0%E8%BE%93   
-  15. 秒杀   
+  15. 幂等    
+  https://github.com/969251639/study/wiki/%E5%B9%82%E7%AD%89    
+  16. 数据一致性   
+  https://github.com/969251639/study/wiki/%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7     
 
 ===============================================================================
 常见算法实现：  
-  Guava And Stream-lib BloomFilter：   
+  BloomFilter：   
   https://github.com/969251639/study/wiki/BloomFilter     
-  Stream-lib 基数估算去重：  
+  基数估算去重：  
   https://github.com/969251639/study/wiki/stream-lib    
-  Google Guava TopK：  
+  TopK：  
   
   大文件查找：  
   
