@@ -408,17 +408,15 @@ LCN：
 ===============================================================================
 常见算法实现：  
   BloomFilter：   
-  https://github.com/969251639/study/wiki/BloomFilter     
+    https://github.com/969251639/study/wiki/BloomFilter     
   基数估算去重：  
-  https://github.com/969251639/study/wiki/stream-lib    
+    https://github.com/969251639/study/wiki/stream-lib    
   TopK：     
     https://github.com/969251639/study/wiki/TopK    
   排序：      
     https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F    
   限流：        
-  
-  动态规划：
-  
+    https://github.com/969251639/study/wiki/%E9%99%90%E6%B5%81   
 ===============================================================================
 网络安全：  
   SQL注入：   
