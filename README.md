@@ -411,13 +411,10 @@ LCN：
   https://github.com/969251639/study/wiki/BloomFilter     
   基数估算去重：  
   https://github.com/969251639/study/wiki/stream-lib    
-  TopK：  
-  
-  大文件查找：     
-  
+  TopK：     
+    https://github.com/969251639/study/wiki/TopK    
   排序：      
-    冒泡排序
-  
+    https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F    
   限流：        
   
   动态规划：
@@ -432,17 +429,5 @@ LCN：
   https://github.com/969251639/study/wiki/CSRF    
   DDOS：  
   https://github.com/969251639/study/wiki/DDOS     
-  
-===============================================================================
-Mysql：  
-  索引：  
-  锁：  
-  主从：  
-  redo/undo：  
-  常见优化：        
-  
-===============================================================================
-Java：  
-  
   
   
