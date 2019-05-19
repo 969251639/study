@@ -407,26 +407,26 @@ LCN：
 
 ===============================================================================
 常见算法实现：  
-  BloomFilter：   
-    https://github.com/969251639/study/wiki/BloomFilter     
-  基数估算去重：  
-    https://github.com/969251639/study/wiki/stream-lib    
-  TopK：     
-    https://github.com/969251639/study/wiki/TopK    
-  排序：      
-    https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F    
-  限流：        
-    https://github.com/969251639/study/wiki/%E9%99%90%E6%B5%81   
+  1. BloomFilter：   
+  https://github.com/969251639/study/wiki/BloomFilter     
+  2. 基数估算去重：  
+  https://github.com/969251639/study/wiki/stream-lib    
+  3. TopK：     
+  https://github.com/969251639/study/wiki/TopK    
+  4. 排序：      
+  https://github.com/969251639/study/wiki/%E6%8E%92%E5%BA%8F    
+  5. 限流：        
+  https://github.com/969251639/study/wiki/%E9%99%90%E6%B5%81   
     
 ===============================================================================
 网络安全：  
-  SQL注入：   
+  1. SQL注入：   
   https://github.com/969251639/study/wiki/SQL%E6%B3%A8%E5%85%A5        
-  XSS：  
+  2. XSS：  
   https://github.com/969251639/study/wiki/XSS    
-  CSRF：  
+  3. CSRF：  
   https://github.com/969251639/study/wiki/CSRF    
-  DDOS：  
+  4. DDOS：  
   https://github.com/969251639/study/wiki/DDOS     
   
   
